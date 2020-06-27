@@ -1,0 +1,10 @@
+State:
+my health
+monster health
+activity log
+
+methods:
+my attack
+my special attack
+heal
+give up
